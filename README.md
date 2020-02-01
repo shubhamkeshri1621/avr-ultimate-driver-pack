@@ -19,12 +19,7 @@ New drivers:
 
 Contributors:
 
-* Big thanks to Davide Geroni for writing most of the drivers in this pack.
-	http://davidegironi.blogspot.se/
-	
-* Martin K. Schröder
-	info@fortmax.se
-	http://oskit.se
+* Shubham Keshri (@shubhamkeshri1621)
 
 Usage:
 
